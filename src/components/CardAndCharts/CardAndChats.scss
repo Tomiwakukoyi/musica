@@ -1,0 +1,60 @@
+* {
+  font-style: normal;
+}
+
+.cac_container {
+  position: absolute;
+  top: 15.5%;
+  left: 11%;
+
+  h2 {
+    position: absolute;
+    width: 92px;
+    height: 14px;
+    left: 45px;
+    top: 38px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 120%;
+    color: white;
+  }
+  h1 {
+    position: absolute;
+    top: 38%;
+    left: -13.3%;
+    width: 170px;
+    height: 42px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 120%;
+    color: #ffffff;
+  }
+  p {
+    position: absolute;
+    top: 52%;
+    left: 45px;
+    width: 276px;
+    height: 51px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+    color: #ffffff;
+  }
+  .right-side {
+    h1 {
+      position: absolute;
+      width: 123px;
+      height: 29px;
+      left: 84%;
+      top: 0px;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 120%;
+      color: #efeee0;
+    }
+  }
+}

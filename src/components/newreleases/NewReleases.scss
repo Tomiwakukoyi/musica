@@ -1,0 +1,47 @@
+h1 {
+  width: 160px;
+  height: 29px;
+  margin-left: 135px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 120%;
+  color: #efeee0;
+}
+.newReleasesContainer {
+  margin-left: 150px;
+  position: absolute;
+  overflow: hidden;
+  overflow-x: scroll;
+
+  .releases {
+    height: 200px;
+    width: 1125px;
+    display: flex;
+  }
+}
+
+/////////////////////////////////////
+/// Releases
+.releasesContainer {
+  .song {
+    margin-right: 180px;
+    margin-top: 10px;
+    img {
+      position: absolute;
+      border-radius: 25px;
+    }
+    h3 {
+      position: absolute;
+      width: 100px;
+      height: 16px;
+      margin-top: 14%;
+      margin-left: 0.3%;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 15px;
+      color: #ffffff;
+    }
+  }
+}

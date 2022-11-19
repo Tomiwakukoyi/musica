@@ -1,0 +1,84 @@
+.charts-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-left: 105%;
+  top: 8%;
+  .card {
+    width: 417px;
+    height: 96px;
+    background: #1a1e1f;
+    border-radius: 20px;
+    margin-top: 17px;
+
+    .songInfo {
+      .songImg {
+        img {
+          width: 63px;
+          height: 63px;
+          margin-top: 15px;
+          margin-left: 20px;
+          border-radius: 10px;
+          cursor: pointer;
+        }
+      }
+      .info {
+        margin-left: 6px;
+        h3 {
+          width: 144px;
+          height: 20px;
+          margin-top: 15px;
+          margin-left: 10px;
+          font-style: normal;
+          font-weight: 400;
+          font-size: 17px;
+          line-height: 120%;
+          color: #ffffff;
+        }
+        h5 {
+          width: 79px;
+          height: 14px;
+          margin-left: 10px;
+          margin-top: 6px;
+          font-style: normal;
+          font-weight: 400;
+          font-size: 12px;
+          line-height: 120%;
+          color: rgba(255, 255, 255, 0.5);
+        }
+        h4 {
+          width: 37px;
+          height: 14px;
+          margin-left: 10px;
+          margin-top: 9px;
+          font-style: normal;
+          font-weight: 400;
+          font-size: 12px;
+          line-height: 120%;
+          color: #ffffff;
+        }
+      }
+      .imgCont {
+        width: 37px;
+        height: 37px;
+        left: 359px;
+        top: 30px;
+        border-radius: 50px;
+        border: 1px solid rgba(255, 255, 255, 0.11);
+      }
+    }
+    .imgCont {
+      width: 37px;
+      height: 37px;
+      margin-top: 30px;
+      margin-right: 20px;
+      border-radius: 50px;
+      border: 1px solid rgba(255, 255, 255, 0.11);
+
+      img {
+        margin-top: 10px;
+        margin-left: 10px;
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+.logo {
+  position: absolute;
+  height: 52px;
+  left: 60px;
+  top: 30px;
+  img {
+    position: relative;
+    cursor: pointer;
+  }
+}
+.icon-bg1 {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  width: 52px;
+  left: 50px;
+  height: 230px;
+  margin-top: 7%;
+  background: #1a1e1f;
+  border-radius: 32px;
+  img {
+    position: relative;
+    cursor: pointer;
+  }
+}
+.icon-bg2 {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  width: 52px;
+  left: 50px;
+  height: 127px;
+  margin-top: 18px;
+  background: #1a1e1f;
+  border-radius: 32px;
+  img {
+    cursor: pointer;
+    position: relative;
+  }
+}
