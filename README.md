@@ -1,5 +1,9 @@
 This is a music player web app although its not finished and i've not added some functionalities
 
+Its just available on desktop for now, no mobile version yet
+
+
+
 Its basically just the UI at this point.
 Im working on another better music app where I'll integrate spotify api to get live music data.
 
