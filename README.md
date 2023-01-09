@@ -1,12 +1,9 @@
-This is a music player web app although its not finished and i've not added some functionalities
-
-Its just available on desktop for now, no mobile version yet
+Musica is a music streaming app I built with React Js
 
 
-
-Its basically just the UI at this point.
-Im working on another better music app where I'll integrate spotify api to get live music data.
-
-On this app, i made use of Tailwind CSS, Styled Components and CSS for the styling
-I used react practices like react router, state managements, react hooks.
-I also made use of some icon libraries for the icons i used.
+I built just the UI with few functionalities with the integration with spotify API the only missing thing
+I ensured to maintain proper and easy to understand folder structure
+I used props to pass data from components to components including images
+I used React- Router for routing through the pages of this App.
+I made use of Styled-components, Tailwind CSS and vanilla CSS and SCSS at different points of this App for the styling
+I also made use of external libraries for the icons I used on this project
